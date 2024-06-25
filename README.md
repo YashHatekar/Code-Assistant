@@ -1,7 +1,7 @@
 # Code-Assistant
 Code Assistant using Ollama's CodeLlama
 
-# Pre-requisite
+# Prequisites
 Install Ollama (https://ollama.com/download)
 Install CodeLlama (ollama run codellama)
 
