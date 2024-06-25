@@ -1,5 +1,10 @@
 # Code-Assistant
 Code Assistant using Ollama's CodeLlama
+
+# Pre-requisite
+Install Ollama (https://ollama.com/download)
+Install CodeLlama (ollama run codellama)
+
 # Steps to run
  1. Run the command 'pip install -r requirements.txt'
  2. Change the terminal to the projects directory and run "ollama create TeachCode -f modelfile"
