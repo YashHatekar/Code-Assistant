@@ -2,8 +2,8 @@
 Code Assistant using Ollama's CodeLlama
 
 # Prequisites
-Install Ollama (https://ollama.com/download)
-Install CodeLlama (ollama run codellama)
+1. Install Ollama (https://ollama.com/download)
+2. Install CodeLlama (ollama run codellama)
 
 # Steps to run
  1. Run the command 'pip install -r requirements.txt'
